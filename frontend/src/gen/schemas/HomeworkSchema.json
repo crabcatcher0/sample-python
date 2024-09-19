@@ -1,0 +1,1 @@
+{"type":"object","properties":{"title":{"type":"string","title":"Title"},"assigned_by":{"type":"object","properties":{"id":{"type":"integer","title":"Id"}},"required":["id"],"title":"UserIdSchema","x-readme-ref-name":"UserIdSchema"}},"required":["title","assigned_by"],"title":"HomeworkSchema","x-readme-ref-name":"HomeworkSchema"}

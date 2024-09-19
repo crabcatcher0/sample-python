@@ -1,0 +1,1 @@
+{"type":"object","properties":{"id":{"type":"integer","title":"Id"}},"required":["id"],"title":"UserIdSchema","x-readme-ref-name":"UserIdSchema"}

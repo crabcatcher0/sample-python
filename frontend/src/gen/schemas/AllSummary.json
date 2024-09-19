@@ -1,0 +1,1 @@
+{"type":"object","properties":{"total_homework":{"type":"integer","title":"Total Homework"},"available_subject":{"type":"integer","title":"Available Subject"},"collective_books":{"type":"integer","title":"Collective Books"}},"required":["total_homework","available_subject","collective_books"],"title":"AllSummary","x-readme-ref-name":"AllSummary"}
